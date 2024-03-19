@@ -1,0 +1,13 @@
+Exercício 1- Array 
+
+Determinar a frase 
+
+Split para separar as letras da frase para depois achar as vogais   
+
+Filter para filtrar apenas as vogais da frase  
+
+Exibir o texto  
+
+Exibir o número total de vogais  
+
+Exibir as vogais encontradas 
